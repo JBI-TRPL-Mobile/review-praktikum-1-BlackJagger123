@@ -16,7 +16,7 @@ class Tentang extends StatelessWidget {
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 10),
-            Text('Dibuat Oleh Satrio Adi Baskoro')
+            Text('Dibuat Oleh Satrio Adi Baskoro, 362358302007')
           ],
         ),
       ),
